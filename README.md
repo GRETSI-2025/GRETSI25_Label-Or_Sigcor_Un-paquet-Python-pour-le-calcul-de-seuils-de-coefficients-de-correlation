@@ -11,7 +11,7 @@ Description of the content:
 - `Gretsi_2025_figures.ipynb`: generates the figures of the article.
 - `tools.py`: module regrouping links, external dependencies and functions used by the  notebook `Gretsi_2025_figures.ipynb`. 
 
-# requirements
+## requirements
 - python >= 3.10
 - ipykernel >= 6.29
 - jupyter >= 1.1
