@@ -6,7 +6,7 @@
 
 | Label décerné | Auteur | Rapporteur | Éléments reproduits | Liens |
 |:-------------:|:------:|:----------:|:-------------------:|:------|
-| ![](label_or.png) | Guillaume BECQ<br>[@gjpcbecq](https://github.com/gjpcbecq) | Benjamin PERRET<br>[@PerretB](https://github.com/PerretB) |  Figures 1, 2, 3 et 4 | 📌&nbsp;[Dépôt&nbsp;original](https://github.com/gjpcbecq/gretsi_2025_sigcor)<br>⚙️&nbsp;[Issue](https://github.com/GRETSI-2025/Label-Reproductible/issues/27)<br>📝&nbsp;[Rapport](https://github.com/akrah/test/tree/main/rapports/Rapport_issue_27) |
+| ![](label_or.png) | Guillaume BECQ<br>[@gjpcbecq](https://github.com/gjpcbecq) | Benjamin PERRET<br>[@PerretB](https://github.com/PerretB) |  Figures 1, 2, 3 et 4 | 📌&nbsp;[Dépôt&nbsp;original](https://github.com/gjpcbecq/gretsi_2025_sigcor)<br>⚙️&nbsp;[Issue](https://github.com/GRETSI-2025/Label-Reproductible/issues/27)<br>📝&nbsp;[Rapport](https://github.com/GRETSI-2025/Label-Reproductible/tree/main/rapports/Rapport_issue_27) |
 
 <hr>
 
